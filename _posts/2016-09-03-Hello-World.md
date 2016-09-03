@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Beginings..
+title: The Beginings
 ---
 
 Here, I will be sharing the progress of my CREU research project weekly! Very exciting right?!
