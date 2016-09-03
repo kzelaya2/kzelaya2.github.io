@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me and My Research
 permalink: /about/
 ---
 
-Some information about you!
+Hello :) My name is Kate Zelaya and I am majoring in computer science at Kennesaw State University. I am excited to be a part of the
+CRA-CREU program and to be participating in my first research project.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[katezelaya2@gmail.com](mailto:katezelaya2@gmail.com)
