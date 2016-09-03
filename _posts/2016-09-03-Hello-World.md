@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog
+title: Research Blog
 ---
 
 Here, I will be sharing the progress of my CREU research project weekly! Very exciting right?!
