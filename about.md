@@ -14,7 +14,7 @@ CRA-W CREU program and to be participating in this research project :)
 The research I will be doing this year is on "Analyzing the Potential of Learning Reading and Math Skills Through Computational
 Thinking". With the help of my group mates: Deja Tyla Jackson, Erica Pantoja, Cindi Simmons, and facutly adivors: Dr. Amber Wagner and
 Dr. Melissa Driver, we hope to enhance students with learning disabilites with skills such as math, literacy, and computational thinking
-using code! 
+using code :) 
 
 ### Contact me
 
