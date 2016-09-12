@@ -20,3 +20,5 @@ This week, I will be finishing up reading "Lowering the Barriers to Programming:
 
 
 
+
+
