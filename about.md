@@ -7,7 +7,7 @@ permalink: /about/
 Hello :)
 
 My name is Kate Zelaya and I am majoring in computer science at Kennesaw State University. I am excited to be a part of the
-CRA-CREU program and to be participating in my first research project.
+CRA-W CREU program and to be participating in this research project :)
 
 ## My Research
 
