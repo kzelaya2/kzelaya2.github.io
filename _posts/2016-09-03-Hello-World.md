@@ -9,6 +9,6 @@ Currently, my group mates and I are gathering information about the existing blo
 and App Inventor. We also are currently researching educational articles so that we can make an evaluation rubric for block languages.
 This will demonstrate both the strengths and weaknesses in the existing block languages especially when trying to teach elementary-aged
 students or students with learning disabilities. I am finding helpful articles, but am still trying to decide which of them will be the
-most helpful, and when I do I will be sure to share the links here:) 
+most helpful, and when I do I will be sure to share my findings here:) 
 
 
