@@ -18,4 +18,4 @@ using code :)
 
 ### Contact me
 
-[katezelaya2@gmail.com](mailto:kzelaya2@students.kennesaw.edu)
+[katezelaya2@gmail.com](mailto:katezelaya2@gmail.com)
