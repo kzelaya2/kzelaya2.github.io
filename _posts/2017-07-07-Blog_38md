@@ -2,3 +2,21 @@
 layout: post
 title: Coding the Math Portion pt 2 :)
 ---
+Hello, Everyone :)
+
+This past week I was working on developing the "pop-up" math questions that the player encounters while playing Hopper's Fables. In addition, 
+I was put in charge in deploying our project on our google cloud so that it can be accessible on the internet for others. So far, both
+tasks are not done but they are coming along. The problem I am facing with the "pop-up" math questions is having an image also appear for them to
+answer the question if it is needed. In addition, I have been having to research how to get a "pop-up" math question to "execute" in between blocks.
+This is because right now, the setup is configured to having the math question appear after once game scence. For now, that is ok but we would like to 
+surprise the player so they do not expect it :)
+
+The way I started doing these "pop-up" math questions was by using the html form tag (which is a bit complicated), and 
+creating many functions but luckily my research mate Deja had a better solution :) 
+
+As far as deploying our website, I have only got it to display an "ugly skeleton" version. I will attach a photo below of what it looks like, and what 
+it is supposed to look like:
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/152515268@N06/35821819116/in/dateposted-public/" title="8336797a39984a35ba7183602c76b4f3"><img src="https://farm5.staticflickr.com/4286/35821819116_917d585844_m.jpg" width="240" height="135" alt="8336797a39984a35ba7183602c76b4f3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/152515268@N06/35022776494/in/dateposted-public/" title="Screen Shot 2017-07-11 at 2.57.21 PM"><img src="https://farm5.staticflickr.com/4257/35022776494_f6a379f421_m.jpg" width="240" height="134" alt="Screen Shot 2017-07-11 at 2.57.21 PM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+This comming week, I will continue to solving these issues. 
