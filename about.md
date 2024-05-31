@@ -4,18 +4,14 @@ layout: page
 permalink: /about/
 ---
 ## About Me
-Hello :)
+Hello and welcome. 
 
-My name is Kate Zelaya and I am majoring in computer science at Kennesaw State University. I am excited to be a part of the
-CRA-W CREU program and to be participating in this research project :)
+My name is Kathelyn Zelaya and I was majoring in computer science at Kennesaw State University at the time this blog was active. I participated in the CRA-W CREU program from 2016-2017.
 
 ## My Research
 
-The research I will be doing this year is on "Analyzing the Potential of Learning Reading and Math Skills Through Computational
-Thinking". With the help of my group mates: Deja Tyla Jackson, Erica Pantoja, Cindi Simmons, and facutly adivors: Dr. Amber Wagner and
-Dr. Melissa Driver, we hope to enhance students with learning disabilites with skills such as math, literacy, and computational thinking
-using code :) 
+My research, titled "Analyzing the Potential of Learning Reading and Math Skills Through Computational Thinking," was conducted with the support of my group mates Deja Tyla Jackson, Erica Pantoja, and Cindi Simmons, and our faculty advisors, Dr. Amber Wagner and Dr. Melissa Driver. Our goal was to explore methods for enhancing the math, literacy, and computational thinking skills of students with learning disabilities through the use of coding.
 
-### Contact me
+### Lets connect on LinkedIn.
 
-[katezelaya2@gmail.com](mailto:katezelaya2@gmail.com)
+[zelayak](https://www.linkedin.com/in/zelayak/)
