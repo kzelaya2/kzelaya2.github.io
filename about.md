@@ -6,7 +6,7 @@ permalink: /about/
 ## About Me
 Hello and welcome. 
 
-My name is Kathelyn Zelaya and I was majoring in computer science at Kennesaw State University at the time this blog was active. I participated in the CRA-W CREU program from 2016-2017.
+My name is Kathelyn Zelaya, and during the time this blog was active, I was majoring in computer science at Kennesaw State University. I was participating in the CRA-W’s [Collaborative Research Experience for Undergraduates (CREU) program](https://cra.org/cra-wp/creu/) from 2016 to 2017.
 
 ## My Research
 
